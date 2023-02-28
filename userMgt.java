@@ -4,3 +4,4 @@ dominion
 Obi Gregory
 Datti Ahmed Yusuf
 Manager
+Amaka

@@ -1,7 +1,8 @@
+#These are users
 landmark
 simon
 dominion
-Obi Gregory
-Datti Ahmed Yusuf
-Manager
+Obi Greg
+Datti Ahmed 
+Michael
 Amaka

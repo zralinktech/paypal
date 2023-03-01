@@ -1,7 +1,11 @@
 landmark
 simon
 dominion
-Obi Gregory
-Datti Ahmed Yusuf
+Obi 
+Gregory
+Datti
+Ahmed 
+Yusuf
 Manager
 Amaka
+
